@@ -1,3 +1,3 @@
 <?php
-    include_once('cart.html')
+    include_once('product.html')
 ?>
